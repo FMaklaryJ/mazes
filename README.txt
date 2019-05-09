@@ -12,3 +12,4 @@ but blocks off the way to the dead end.
 
 You run it, write the name of the picture (with .png at the end), 
 tell it how many times it should run, and then tadaa, it hopefully found a path.
+Hope you have fun with it.
